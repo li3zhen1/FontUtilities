@@ -2,7 +2,7 @@
 
 ## `convertttf`
 
-Convert otf to ttf for specific font in a folder. Convert CCF table to ttf file with glyf tables. This is handy for some PDF library that does not support subsets CCF fonts.
+Convert otf to ttf for specific font in a folder. Convert `CCF ` font to ttf file. This is handy for some PDF libraries that do not support subsetting CCF fonts.
 
 ## `generate_instance`
 
